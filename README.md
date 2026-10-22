@@ -14,10 +14,10 @@ I'm **Sachin Chauhan**. I enjoy turning ideas into web applications and practica
 
 ```javascript
 const sachin = {
-  focus: ["web applications", "API integration", "deployment"],
-  exploring: ["Python tools", "AI-assisted development"],
+  focus: "Web apps + APIs",
+  exploring: "Python + AI",
   approach: "Build → test → ship → improve",
-  favouriteOutcome: "A demo you can actually use"
+  goal: "A working demo"
 };
 ```
 
@@ -26,8 +26,8 @@ const sachin = {
 ### Selected work / open it, try it
 
 <p>
-<a href="https://github.com/sachinchauhan0229-creator/reeldrop"><img src="assets/reel.svg" width="49%" alt="ReelDrop — Python and JavaScript video downloader. Explore the source." /></a>
-<a href="https://packed-food-web.vercel.app/"><img src="assets/food.svg" width="49%" alt="Food Decision Intelligence — Next.js, FastAPI, Neon and Vercel deployment collaboration. Try the live application." /></a>
+<a href="https://github.com/sachinchauhan0229-creator/reeldrop"><img src="assets/reel.svg" width="100%" alt="ReelDrop — Python and JavaScript video downloader. Explore the source." /></a>
+<a href="https://packed-food-web.vercel.app/"><img src="assets/food.svg" width="100%" alt="Food Decision Intelligence — Next.js, FastAPI, Neon and Vercel deployment collaboration. Try the live application." /></a>
 </p>
 
 **01 · ReelDrop**  
