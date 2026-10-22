@@ -25,9 +25,9 @@ const sachin = {
 
 ### Selected work / open it, try it
 
-<p>
-<a href="https://github.com/sachinchauhan0229-creator/reeldrop"><img src="assets/reel.svg" width="100%" alt="ReelDrop — Python and JavaScript video downloader. Explore the source." /></a>
-<a href="https://packed-food-web.vercel.app/"><img src="assets/food.svg" width="100%" alt="Food Decision Intelligence — Next.js, FastAPI, Neon and Vercel deployment collaboration. Try the live application." /></a>
+<p align="center">
+<a href="https://github.com/sachinchauhan0229-creator/reeldrop"><img src="assets/reel.svg" width="400" alt="ReelDrop — Python and JavaScript video downloader. Explore the source." /></a>
+<a href="https://packed-food-web.vercel.app/"><img src="assets/food.svg" width="400" alt="Food Decision Intelligence — Next.js, FastAPI, Neon and Vercel deployment collaboration. Try the live application." /></a>
 </p>
 
 **01 · ReelDrop**  
