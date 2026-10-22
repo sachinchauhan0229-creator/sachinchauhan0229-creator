@@ -8,18 +8,13 @@
 <a href="https://packed-food-web.vercel.app/"><img src="https://img.shields.io/badge/FOOD_ANALYSIS_%E2%86%97-191d36?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffcb83" alt="Food analysis live demo" /></a>
 </p>
 
-### A little about the builder
+### Making things people can use
 
-I'm **Sachin Chauhan**. I enjoy turning ideas into web applications and practical tools—connecting an interface to its backend, working through the rough edges, and getting it online.
+I'm **Sachin Chauhan**. I like the moment a project stops being an idea and becomes something you can open, try, and share.
 
-```javascript
-const sachin = {
-  focus: "Web apps + APIs",
-  exploring: "Python + AI",
-  approach: "Build → test → ship → improve",
-  goal: "A working demo"
-};
-```
+My work brings together web interfaces, APIs, and deployment. I enjoy connecting the pieces, fixing what gets in the way, and making the finished experience easier to use.
+
+Right now, I'm exploring Python and AI-assisted development through practical projects. The projects below show what I've been working on—and link directly to the demos.
 
 <br />
 
