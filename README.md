@@ -6,6 +6,7 @@
 <a href="https://github.com/sachinchauhan0229-creator?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-191d36?style=for-the-badge&amp;logo=github&amp;logoColor=b1a0ff" alt="Explore the code" /></a>
 <a href="https://reeldrop-sachin.vercel.app/"><img src="https://img.shields.io/badge/REELDROP_%E2%86%97-191d36?style=for-the-badge&amp;logo=vercel&amp;logoColor=66ead0" alt="ReelDrop live demo" /></a>
 <a href="https://packed-food-web.vercel.app/"><img src="https://img.shields.io/badge/FOOD_ANALYSIS_%E2%86%97-191d36?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffcb83" alt="Food analysis live demo" /></a>
+<a href="https://jobcraft.in/"><img src="https://img.shields.io/badge/JOBCRAFT_%E2%86%97-191d36?style=for-the-badge&amp;logo=vercel&amp;logoColor=66ead0" alt="JobCraft live website" /></a>
 </p>
 
 ### Making things people can use
@@ -34,6 +35,11 @@ A browser interface and Python API for downloading public Instagram videos and R
 Deployment and integration work for a packaged-food analysis app: a Next.js frontend, FastAPI backend, and Neon PostgreSQL database.  
 [Live demo ↗](https://packed-food-web.vercel.app/) · [Original project ↗](https://github.com/SNEHAJUYAL/packed-food-analysis-Minor-project-)  
 <sub>Original project by Sneha Juyal, Radhika, and Shinjini. My contribution focuses on bringing the application online and connecting its services.</sub>
+
+**03 · JobCraft**  
+A free resume and cover-letter builder with editable templates, role-specific examples, career guides, and Hindi resume-writing guidance. Built with HTML, CSS, and JavaScript, with Python-generated pages and deployment on Vercel.  
+[Live website ↗](https://jobcraft.in/) · [Resume examples ↗](https://jobcraft.in/sample/) · [Career guides ↗](https://jobcraft.in/guides/)  
+<sub>No sign-up required. Drafts stay in your browser; download plain text or save as PDF through browser printing.</sub>
 
 <br />
 
@@ -70,5 +76,6 @@ Deployment and integration work for a packaged-food analysis app: a Next.js fron
 <b>Have a look around. The best introduction is a working project.</b><br /><br />
 <a href="https://github.com/sachinchauhan0229-creator?tab=repositories">REPOSITORIES ↗</a> &nbsp; / &nbsp;
 <a href="https://reeldrop-sachin.vercel.app/">TRY REELDROP ↗</a> &nbsp; / &nbsp;
-<a href="https://packed-food-web.vercel.app/">TRY FOOD ANALYSIS ↗</a>
+<a href="https://packed-food-web.vercel.app/">TRY FOOD ANALYSIS ↗</a> &nbsp; / &nbsp;
+<a href="https://jobcraft.in/">TRY JOBCRAFT ↗</a>
 </p>
