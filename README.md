@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/sachinchauhan0229-creator?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-191d36?style=for-the-badge&amp;logo=github&amp;logoColor=b1a0ff" alt="Explore the code" /></a>
-<a href="https://reeldrop-sachin.vercel.app/"><img src="https://img.shields.io/badge/REELDROP_%E2%86%97-191d36?style=for-the-badge&amp;logo=vercel&amp;logoColor=66ead0" alt="ReelDrop live demo" /></a>
+<a href="https://reeldrop.jobcraft.in/"><img src="https://img.shields.io/badge/REELDROP_%E2%86%97-191d36?style=for-the-badge&amp;logo=vercel&amp;logoColor=66ead0" alt="ReelDrop live demo" /></a>
 <a href="https://packed-food-web.vercel.app/"><img src="https://img.shields.io/badge/FOOD_ANALYSIS_%E2%86%97-191d36?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffcb83" alt="Food analysis live demo" /></a>
 <a href="https://jobcraft.in/"><img src="https://img.shields.io/badge/JOBCRAFT_%E2%86%97-191d36?style=for-the-badge&amp;logo=vercel&amp;logoColor=66ead0" alt="JobCraft live website" /></a>
 </p>
@@ -28,7 +28,7 @@ Right now, I'm exploring Python and AI-assisted development through practical pr
 
 **01 · ReelDrop**  
 A browser interface and Python API for downloading public Instagram videos and Reels using yt-dlp.  
-[Source code ↗](https://github.com/sachinchauhan0229-creator/reeldrop) · [Live demo ↗](https://reeldrop-sachin.vercel.app/)  
+[Source code ↗](https://github.com/sachinchauhan0229-creator/reeldrop) · [Live demo ↗](https://reeldrop.jobcraft.in/)  
 <sub>Use for content you own or have permission to save. Availability depends on Instagram.</sub>
 
 **02 · Food Decision Intelligence**  
@@ -75,7 +75,7 @@ A free resume and cover-letter builder with editable templates, role-specific ex
 <p align="center">
 <b>Have a look around. The best introduction is a working project.</b><br /><br />
 <a href="https://github.com/sachinchauhan0229-creator?tab=repositories">REPOSITORIES ↗</a> &nbsp; / &nbsp;
-<a href="https://reeldrop-sachin.vercel.app/">TRY REELDROP ↗</a> &nbsp; / &nbsp;
+<a href="https://reeldrop.jobcraft.in/">TRY REELDROP ↗</a> &nbsp; / &nbsp;
 <a href="https://packed-food-web.vercel.app/">TRY FOOD ANALYSIS ↗</a> &nbsp; / &nbsp;
 <a href="https://jobcraft.in/">TRY JOBCRAFT ↗</a>
 </p>
